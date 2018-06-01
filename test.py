@@ -4,5 +4,6 @@ def hello():
     print('Hello python')
     print('Hello Go')
     print('Hello VS')
+    print('test')
 
 hello()
