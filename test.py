@@ -5,5 +5,6 @@ def hello():
     print('Hello Go')
     print('Hello VS')
     print('test')
+    print('test 2')
 
 hello()
