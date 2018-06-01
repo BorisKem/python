@@ -1,9 +1,4 @@
 
-def hello():
-    print('Hello world')
-
-hello()
-
 def main():
     pass
 
